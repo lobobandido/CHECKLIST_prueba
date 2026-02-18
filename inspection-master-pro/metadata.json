@@ -1,7 +1,0 @@
-{
-  "name": "Inspection Master Pro",
-  "description": "A comprehensive logistics and vehicle inspection dashboard for managing fleet health, tracking unit statuses, and conducting detailed multi-step inspections with digital signatures.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
